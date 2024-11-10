@@ -1,1 +1,2 @@
-# node-js-lidando-com-buscas-filtros-paginacao-e-erros-em-api
+# 2404-api-node-express
+Projeto utilizado no curso da Alura
